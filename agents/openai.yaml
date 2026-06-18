@@ -1,0 +1,7 @@
+interface:
+  display_name: "Skill Demand Agent"
+  short_description: "Turns online needs and popular Clawhub signals into reviewed skills."
+  default_prompt: "Use $skill-demand-agent to discover recent user needs online and popular Clawhub skill opportunities, generate reviewed skills in parallel, optionally publish them, and write a catalog."
+
+policy:
+  allow_implicit_invocation: true

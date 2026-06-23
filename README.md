@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="./README_ch.md">English</a> | <strong>简体中文</strong>
+</p>
+
 # SkillFoundry
 
 **Find real demand. Build the right skills. Publish with proof.**

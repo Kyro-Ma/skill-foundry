@@ -3,6 +3,8 @@
 </p>
 
 # SkillFoundry
+Clawhub Account:
+![ClawHub dashboard: office and document skills](2026-07-13.png)
 
 **Find real demand. Build the right skills. Publish with proof.**
 
